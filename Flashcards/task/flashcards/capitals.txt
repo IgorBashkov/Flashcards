@@ -1,0 +1,8 @@
+Russia|Moscow|0
+GB|London|2
+USA|Washington|2
+Germany|Berlin|2
+Japan|Tokyo|0
+India|Deli|0
+Ukraine|Kiev|0
+Belarus|Minsk|0
